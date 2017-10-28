@@ -8,13 +8,11 @@ body {
 h1 {
   font-size: 56px;
   color: blue; 
-  text-align: center;
 }
 
 h2 {
   font-size: 32px;
   color: green; 
-  text-align: left;
 }
   
 p {
