@@ -1,15 +1,12 @@
 body {
   height: 100%;
   margin: 0;
-  text-align: left;
   width: 100%;
 }
 
 h1 {
   font-size: 56px;
-  color:green;
-  text-align: center;
-  
+  color:green;  
 }
 
 p {
