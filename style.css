@@ -1,12 +1,11 @@
 body {
-margin-top: 20px;
-margin-left: 200px;
-margin-right: 200px;
-
-padding: 10px 150px 10px 150px;
-
-border-radius: 15px;
-background-color: #C4CECD;
+  height: 100%;
+  margin-top: 10;
+  margin-right: 100;
+  margin-bottom: 10;
+  margin-left: 100;
+  text-align: left;
+  width: 70%;
 }
 
 h1 {
