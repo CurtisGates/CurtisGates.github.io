@@ -20,6 +20,10 @@ h2 {
   color: green; 
 }
   
+h3 {
+  font-size: 14px;
+}
+
 p {
-  color: red;
+  color: black;
 }
