@@ -1,8 +1,12 @@
 body {
-  height: 100%;
-  margin: 10;
-  text-align: left;
-  width: 75%;
+margin-top: 20px;
+margin-left: 200px;
+margin-right: 200px;
+
+padding: 10px 150px 10px 150px;
+
+border-radius: 15px;
+background-color: #C4CECD;
 }
 
 h1 {
@@ -16,7 +20,7 @@ h1 {
   
 
 h2 {
-  font-size: 28px;
+  font-size: 30px;
   color: black; 
 }
   
